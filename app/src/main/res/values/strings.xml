@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="txtNome">Nome:</string>
+    <string name="txtNomeMsg">Digite seu nome:</string>
+    <string name="txtEndereco">Endereço:</string>
+    <string name="txtEnderecoMsg">Digite seu endereço:</string>
+    <string name="txtBairro">Bairro:</string>
+    <string name="txtBairroMsg">Digite seu bairro:</string>
+    <string name="txtCEP">CEP:</string>
+    <string name="txtCEPMsg">Digite seu CEP:</string>
+    <string name="txtCidade">Cidade:</string>
+    <string name="txtCidadeMsg">Digite sua cidade:</string>
+    <string name="txtEstado">Estado:</string>
+    <string name="txtEstadoMsg">Digite seu estado:</string>
+    <string name="btnCadastrar">Cadastrar</string>
+</resources>
